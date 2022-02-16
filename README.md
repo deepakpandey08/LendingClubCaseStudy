@@ -29,7 +29,11 @@ The data given below contains the information about past loan applicants and whe
 
 
 ## Technologies Used
-- Python - version 3.10
+- Python - version 3.9.7
+- numpy - 1.20.3
+- pandas - 1.3.4
+- matplotlib.pyplot - 3.4.3
+- seaborn - 0.11.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
