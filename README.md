@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -36,10 +35,6 @@ The data given below contains the information about past loan applicants and whe
 - seaborn - 0.11.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-NA
-
 
 ## Contact
 Created by [@deepakpandey08] - feel free to contact me!
