@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> This is a case study on the a financial data from consumer finance company
+> This is a case study on the financial data from consumer finance company
 
 
 ## Table of Contents
